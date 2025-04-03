@@ -15,7 +15,7 @@ Extract only real, complete company names from this HTML. Return a list of compa
 
 HTML Content:
 ---
-{html[:10000]}
+{html[:15000]}
 ---
 Only output company names, one per line. Do not include extra text or explanations.
 """

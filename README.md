@@ -19,9 +19,11 @@ cd GTMcase_instalily
 ```
 
 ## Create .env in root directory with the following
+```bash
 OPENAI_KEY=...
 SERPAPI_KEY=...
 APOLLO_API_KEY=...
+```
 
 ## Run the Full App
 ```bash

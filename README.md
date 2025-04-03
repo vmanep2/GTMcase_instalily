@@ -18,7 +18,7 @@ git clone https://github.com/vmanep2/GTMcase_instalily.git
 cd GTMcase_instalily
 ```
 
-## Create .env in root directory with the following with the exact names
+## Create .env in root directory with the following exact names and your own API keys
 ```bash
 OPENAI_KEY=...
 SERPAPI_KEY=...
